@@ -1,5 +1,4 @@
 .header {
-	display: flex;
-	justify-content: flex-start;
-	background-color: #000;
+	display: block;
+	background-color: #fff;
 }
